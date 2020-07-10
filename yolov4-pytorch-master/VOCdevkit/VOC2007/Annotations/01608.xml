@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>JPEImages</folder>
+	<filename>01608.jpg</filename>
+	<path>/home/mimt/ALICE/yolov4-pytorch-master/experiment1/JPEImages/001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+<object>
+		<name>dfu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>67</ymin>
+			<xmax>507</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>dfu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>86</ymin>
+			<xmax>259</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>
